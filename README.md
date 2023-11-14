@@ -30,8 +30,7 @@ n2=temp
 print("Swapped values are:",n1,n2)
 ```
 ## output:
-C:\Users\BSS\Documents\swapping output.png
-
+swapping output.png
 
 
 
