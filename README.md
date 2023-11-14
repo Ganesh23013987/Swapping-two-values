@@ -31,6 +31,8 @@ print("Swapped values are:",n1,n2)
 ```
 ## output:
 ![Alt text](<swapping output.png>)
+<img width="310" alt="image" src="https://github.com/Ganesh23013987/Swapping-two-values/assets/147473768/bcbb6111-fa26-47e7-9a89-35ac058dcb7a">
+
 
 
 
