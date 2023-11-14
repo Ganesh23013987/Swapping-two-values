@@ -30,9 +30,7 @@ n2=temp
 print("Swapped values are:",n1,n2)
 ```
 ## output:
-swapping output.png
-
-
+https://github.com/Ganesh23013987/Swapping-two-values/edit/main/README.md#output
 
 
 ## RESULT:
