@@ -30,7 +30,7 @@ n2=temp
 print("Swapped values are:",n1,n2)
 ```
 ## output:
-(<swapping output.png>)
+<swapping output.png>
 
 
 ## RESULT:
